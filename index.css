@@ -17,6 +17,10 @@
 	letter-spacing: 0.9px;
 	font-weight: bold;
 }
+.imgf{
+	max-width: 100%;
+	max-height: 100%;
+}
 #Sobre, #Timeline{
 	background-color: rgba(255, 70, 180, 0.1);
 }
@@ -114,8 +118,9 @@
 }
 /*Seção Criacoes*/
 .slick{
-	width: 100%;
+	width: 90%;
 	height: 100%;
+	margin-left: 5%;
 	max-height: 200px;
 }
 .img_carossel{
